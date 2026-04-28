@@ -12,7 +12,7 @@ The work provides a comprehensive survey and computational exploration of mathem
 | File/Folder                   | Description                                                                                                               |
 | ----------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
 | README.md                     | Project documentation and usage guide.                                                                                    |
-| `Methodology/Methodology.png` | Graphical workflow: dataset curation, UMAP projection, clustering, feature-importance analysis, MM-DT-Hm projection.      |
+| `Methodology.png` | Graphical workflow: dataset curation, UMAP projection, clustering, feature-importance analysis, MM-DT-Hm projection.      |
 | Brain_Cancer_Survey.ipynb     | Main Jupyter notebook implementing the literature analysis, clustering, and visualization pipeline.                       |
 | cancer_dataset_module.py      | Python module providing utility functions for dataset processing and analysis.                                            |
 | datasets/                     | Directory containing the primary bibliographic data (Main_Dataset_clustered.csv) and any intermediate generated datasets. |
@@ -26,7 +26,7 @@ The work provides a comprehensive survey and computational exploration of mathem
 
 
 <p align="center">
-  <img src="Methodology/Methodology.png" width="90%"><br>
+  <img src="Methodology.png" width="90%"><br>
   <em>Methodology Overview.</em>
 </p>
 
