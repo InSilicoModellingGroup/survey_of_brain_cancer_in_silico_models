@@ -26,7 +26,7 @@ The work provides a comprehensive survey and computational exploration of mathem
 
 
 <p align="center">
-  <img src="Methodology.png" width="90%"><br>
+  <img src="Methodology/Methodology.png" width="90%"><br>
   <em>Methodology Overview.</em>
 </p>
 
